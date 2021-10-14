@@ -52,20 +52,20 @@ params:
   # Things I do
   usedothings: true
   Things:
-    - logo: fab fa-python
-      title: Python
-      description: I build something beautiful using Python.
-      #url: https://example.com
+    - logo: 
+      title: Coisa que você faz 1
+      description: Descrição 1
+      #url: 
 
-    - logo: fas fa-robot
-      title: Machine learning
-      description: I train robust models for various tasks.
-      #url: https://guru.com
+    - logo: 
+      title: Coisa que você faz 2
+      description: Descrição 2
+      #url: 
 
-    - logo: fab fa-html5
-      title: Things for web
-      description: I love to build things for web
-      #url: https://guru.com
+    - logo: 
+      title: Coisa que você faz 2
+      description: Descrição 3
+      #url: 
 
   # Footer
   socialiconfooter: true
