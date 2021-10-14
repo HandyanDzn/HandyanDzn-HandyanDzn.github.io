@@ -33,8 +33,8 @@ params:
 
   # social
   socialicontop: false
-  name: "Examble name"
-  github: "https://github.com"
+  name: "Handyan"
+  github: "https://github.com/HandyanDzn"
   linkedin: "https://linkedin.com"
   twitter: "https://twitter.com/"
   instagram: "https://instagram.com/"
@@ -42,7 +42,7 @@ params:
 
   # About
   profile_image: "/images/profile.webp"
-  descripe_l1_person: "Hi, I'm Profile, a passionate web developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly. This is a example template for about section."
+  descripe_l1_person: "Me manda uma descrição para eu colocar aqui, corno!"
   descripe_l2_person: ""
 
   useresume: true
