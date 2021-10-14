@@ -1,6 +1,6 @@
 baseURL: "https://example.com"
 languageCode: "en-us"
-title: "Hugo-profile"
+title: "Handyan"
 theme: "./.."
 relativeURLs: true
 
