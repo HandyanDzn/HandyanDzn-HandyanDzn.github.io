@@ -32,7 +32,7 @@ params:
       Url: "/blog"
 
   # social
-  socialicontop: false
+  socialicontop: true
   name: "Handyan"
   github: "https://github.com/HandyanDzn"
   linkedin: "https://linkedin.com"
